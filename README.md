@@ -1,7 +1,6 @@
-# Cloud Devolper Notes
-____
+<img src="https://udacitymobile.wpengine.com/wp-content/uploads/2019/05/cloud-icon.png" height="70"> <b>Cloud Developer Notes</b>
 
-<img src="https://udacitymobile.wpengine.com/wp-content/uploads/2019/05/cloud-icon.png" height="70">
+____
 
 ![Platform Cloud Developer](https://img.shields.io/badge/nanodegree-Cloud%20Developer-blue.svg)
 
@@ -17,6 +16,8 @@ Here I will be placing my notes from Udacity's Cloud Developer Nanodegree.
 
 This will also be apart of my 100 days of code!
 
-Happy coding! 
+Happy coding! :smiley:
+
+
 
 
