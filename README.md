@@ -8,7 +8,7 @@ ____
 <img src="https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd001.png" alt="iOS Developer Nanodegree logo" height="70" >
 
 
-![progress](https://progress-bar.dev/30/?title=progress)
+![progress](https://progress-bar.dev/35/?title=progress)
 
 ---
 
